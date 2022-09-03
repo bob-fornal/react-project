@@ -1,0 +1,26 @@
+
+.menu {
+  background-color: silver;
+  text-align: left;
+  width: 100%;
+}
+
+.menu .item {
+  color: black;
+  display: inline-block;
+  font-weight: bold;
+  padding: 1em;
+  text-decoration: none;
+}
+.menu .item.active {
+  background-color: green;
+  color: white;
+}
+.menu .item:not(.active):hover {
+  background-color: black;
+  color: white;
+}
+
+.content {
+  margin: 1em;
+}
