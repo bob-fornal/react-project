@@ -5,6 +5,7 @@ import './Menu.css';
 function Menu() {
 
   const linkClass = (isActive) => {
+    console.log(isActive);
     return 'item nav-link ' + (isActive === true ? 'active': '');
   };
 
