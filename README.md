@@ -1,3 +1,11 @@
+# React-Project
+
+## About
+
+This project was created to go with a [VIDEO](https://www.youtube.com/channel/UCACTWXJueMmtOB7iEA0FOBA), showcasing the use of various parts of a GitHub respository.
+
+The [DIRECTIONS ARE HERE](DIRECTIONS.md).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
